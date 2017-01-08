@@ -1,2 +1,2 @@
 # Monokai Llight
-Sublime Text Monokai Light Theme
+Sublime Text Monokai Light Color Scheme
